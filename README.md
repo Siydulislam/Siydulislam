@@ -1,4 +1,4 @@
-### Hello I'm Siydul Islam Sojib 👋
+### Hello there, I'm Siydul Islam Sojib 👋
 
 - 🔭 I’m currently working on my skills!
 - 🌱 I’m currently learning everything
