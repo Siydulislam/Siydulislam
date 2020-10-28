@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developer
 - 💬 Ask me about anything!
+- 📫 How to reach me **[here](siydulislam333@gmail.com)**
 - ⚡ Fun fact: I love to play guitar
 
 ## Connect me to:
