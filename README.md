@@ -8,4 +8,8 @@
 ## Connect me to:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siydul-islam-187b88157/) 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Siydulislam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siydulislam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siydulislam&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Siydulislam) 
