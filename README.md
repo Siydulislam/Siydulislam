@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my skills!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developer
-- 💬 Ask me about **react**
+- 💬 Ask me about anything!
 - ⚡ Fun fact: I love to play guitar
 
 ## Connect me to:
