@@ -25,7 +25,18 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>     <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siydulislam)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siydulislam)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siydulislam)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siydulislam&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siydulislam)  
+
+![Profile views](https://gpvc.arturio.dev/Siydulislam)  
 
