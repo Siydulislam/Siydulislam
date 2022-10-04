@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siydulislam)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Siydulislam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Siydulislam)  
 
