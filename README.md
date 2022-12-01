@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my skills!
 - 🌱 I’m currently explore new technologies
 - 👯 I’m looking to collaborate with other developer
-- ⚡ Fun fact: I love to play guitar
+- ⚡ Fun fact: I love to sing song with playing guitar
 
 ### Connect me to
 <div align="left">
