@@ -1,5 +1,3 @@
-![I am a web developer](https://i.ibb.co/G7L4Dmk/Black-Yellow-Simple-Profile-Linkedin-Banner-6.jpg)
-
 ### Hello there, I'm Siydul Islam Sojib 👋
 
 - 🔭 I’m currently working on my skills!
